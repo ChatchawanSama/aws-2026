@@ -1,0 +1,3134 @@
+{
+  "generated_from_questions": 1019,
+  "needs_review_count": 341,
+  "identical_count": 0,
+  "generic_count": 341,
+  "create_configure_identical_count": 0,
+  "questions": [
+    {
+      "id": 6,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 9,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 11,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 15,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 16,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 19,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 21,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 23,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 25,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 32,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 40,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 42,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 45,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 47,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 51,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 52,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 53,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 57,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 60,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 64,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 67,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 70,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 71,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 76,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 78,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 80,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 82,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 83,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 90,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 91,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 92,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 93,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 99,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 100,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 101,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 113,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 115,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 120,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 122,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 123,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 125,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 128,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 129,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 132,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 133,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 135,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 136,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 144,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 148,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 151,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "E"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 154,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 156,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 158,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 162,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 169,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 170,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 175,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 180,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 182,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 184,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 187,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 190,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 191,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 192,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 197,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 198,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 201,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 203,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 204,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 207,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 214,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 218,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 220,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 228,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 229,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 230,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 231,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 232,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 234,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 236,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 237,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 241,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 243,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 246,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 247,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 248,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 250,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 251,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 253,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 255,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 260,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 261,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 262,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 267,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 268,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 269,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 270,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 272,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 276,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 279,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 282,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 283,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 285,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 286,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 292,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 293,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 294,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 295,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 301,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 303,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 317,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 318,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 319,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 326,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 328,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 333,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 334,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 336,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 337,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 340,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 344,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 345,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 346,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 350,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 352,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 354,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 364,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "E"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 365,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 369,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 372,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 376,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 379,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 381,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 382,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 385,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 389,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 393,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 396,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 398,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 403,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 404,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 413,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 416,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C",
+        "E"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 427,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 431,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 438,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 442,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 446,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 447,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 451,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 453,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 464,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 466,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 467,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 471,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 472,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 475,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 476,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 479,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 487,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 488,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 489,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 493,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 494,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 495,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 496,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "E"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 497,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 500,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 501,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 513,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 520,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 521,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 529,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 530,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 531,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 532,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 538,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 551,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 555,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 560,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 565,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 573,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 578,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 579,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 586,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 588,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 590,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 591,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 596,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 597,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 601,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 603,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 605,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 607,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 610,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 617,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 618,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 620,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 621,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 622,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 623,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 624,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 625,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 627,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 633,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 634,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 639,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 640,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 642,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 646,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 647,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 657,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 660,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 665,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 667,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 673,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 674,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 678,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 680,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 686,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 693,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 694,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 695,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 698,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 699,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 700,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 701,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 702,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 705,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "E"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 706,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 709,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 710,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 711,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 717,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 720,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 721,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 722,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 723,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 725,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 726,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 728,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 729,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 736,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 737,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 743,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 744,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 747,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 749,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 755,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 756,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 760,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 761,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 762,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 763,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 767,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 768,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 775,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 784,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 787,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 788,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 790,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 797,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 800,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 805,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 808,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 810,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 814,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 815,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 821,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 822,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 828,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 832,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 834,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 836,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 837,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 839,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 842,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 845,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 849,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 851,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 856,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 861,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 864,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 866,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 868,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 871,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 876,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 877,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 881,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 882,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 887,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 889,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 891,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 898,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 900,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 901,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 905,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 912,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 914,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 917,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 918,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 922,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 923,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 925,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 926,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 927,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 928,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 931,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 932,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 933,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 934,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 935,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "E"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 941,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 945,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 946,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 949,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 950,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 951,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 958,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B",
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 961,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 966,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 967,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 968,
+      "domain_key": "high-performing",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 969,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 971,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 978,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 981,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 982,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 984,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 986,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 990,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 994,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 997,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 998,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 1002,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "A"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 1003,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 1004,
+      "domain_key": "cost-optimized",
+      "reason": "generic_fallback",
+      "letters": [
+        "B"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 1006,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "E"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 1010,
+      "domain_key": "ambiguous",
+      "reason": "generic_fallback",
+      "letters": [
+        "E"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 1011,
+      "domain_key": "secure",
+      "reason": "generic_fallback",
+      "letters": [
+        "D"
+      ],
+      "category": "other"
+    },
+    {
+      "id": 1019,
+      "domain_key": "resilient",
+      "reason": "generic_fallback",
+      "letters": [
+        "C"
+      ],
+      "category": "other"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AWS SAA-C03 Tutor</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <!--
+      THESIS: Local AWS exam practice as a focused dark study cockpit.
+      OWN-WORLD: Restrained charcoal surfaces, orange decisions, blue review cues, semantic green and red feedback.
+      STORY: Choose a mode and domain, answer one scenario, read the explanation, then continue or revisit weak areas.
+      FIRST VIEWPORT: Progress and controls frame one stable, scrollable question stage with persistent answer actions.
+      FORM: Code-led Operate surface; concept seed d5e8c119; no added runtime dependencies.
+    -->
+    <main class="shell">
+      <header class="app-header">
+        <div class="brand-lockup">
+          <span class="brand-mark" aria-hidden="true">SAA</span>
+          <div>
+            <h1>AWS Solutions Architect Tutor</h1>
+            <p id="sourceStatus">Loading question bank...</p>
+          </div>
+        </div>
+        <dl class="stats" aria-label="Progress stats">
+          <div><dt>Answered</dt><dd id="answeredCount">0</dd></div>
+          <div><dt>Accuracy</dt><dd id="accuracyRate">0%</dd></div>
+          <div><dt>Misses</dt><dd id="wrongCount">0</dd></div>
+        </dl>
+      </header>
+
+      <div class="workspace">
+        <aside class="study-sidebar" aria-label="Study controls">
+          <section class="sidebar-section">
+            <h2>Study mode</h2>
+            <div class="mode-switch">
+              <button id="practiceButton" type="button" aria-pressed="true">Practice</button>
+              <button id="reviewButton" type="button" aria-pressed="false">Review misses</button>
+              <button id="mockButton" type="button" aria-pressed="false">Mock exam · 65</button>
+            </div>
+          </section>
+
+          <section class="sidebar-section">
+            <label for="domainSelect">Domain</label>
+            <select id="domainSelect"></select>
+          </section>
+
+          <section class="sidebar-section utility-actions" aria-label="Study tools">
+            <h2>Progress</h2>
+            <button id="summaryButton" type="button">สรุปจุดอ่อน</button>
+            <button id="revealButton" type="button">เฉลยทั้งหมด</button>
+            <button id="resetButton" type="button">Reset progress</button>
+          </section>
+        </aside>
+
+        <section class="quiz-panel" aria-live="polite">
+          <header class="question-header">
+            <div class="question-meta">
+              <span id="questionId">Question</span>
+              <span id="questionDomain">Domain</span>
+              <span id="questionType">Type</span>
+            </div>
+            <div class="session-status" id="sessionStatus" hidden>
+              <strong id="sessionProgress">1 / 65</strong>
+              <span id="sessionTimer">130:00</span>
+            </div>
+          </header>
+
+          <div class="question-scroll">
+            <h2 id="questionPrompt">กำลังโหลดข้อสอบ...</h2>
+            <details class="keyword-panel" id="keywordPanel" hidden>
+              <summary>คำสำคัญในข้อนี้</summary>
+              <ul class="keyword-list" id="keywordList"></ul>
+            </details>
+            <form id="choicesForm" class="choices"></form>
+          </div>
+
+          <footer class="question-footer">
+            <div id="feedback" class="feedback" hidden></div>
+            <div class="actions">
+              <button id="submitButton" type="button" disabled>Submit answer</button>
+              <button id="nextButton" type="button" data-emphasis="secondary">Next question</button>
+            </div>
+          </footer>
+        </section>
+      </div>
+
+      <section class="drawer" id="drawer" hidden>
+        <div class="drawer-head">
+          <h2 id="drawerTitle">Summary</h2>
+          <button id="drawerClose" type="button" aria-label="Close panel">Close</button>
+        </div>
+        <div id="drawerBody"></div>
+      </section>
+    </main>
+    <script src="./app.logic.browser.js"></script>
+    <script src="./saa_c03_tutor_bank.browser.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
